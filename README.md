@@ -1,1 +1,1 @@
-This website is hacked, Please sign in at evil.com to continue
+smartnews.net website of is hacked, Please sign-in at evil.com to continue
