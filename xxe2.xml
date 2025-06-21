@@ -1,0 +1,4 @@
+{
+  "data": "<?xml version=\"1.0\"?><data>&xxe;</data>",
+  "doctype": "<!DOCTYPE data [ <!ENTITY xxe SYSTEM \"file:///etc/passwd\"> ]>"
+}
