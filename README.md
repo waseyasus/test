@@ -1,1 +1,1 @@
-This website is hacked, Please sign up at evil.com to continue
+This website is hacked, Please sign in at evil.com to continue
